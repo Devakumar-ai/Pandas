@@ -8,7 +8,7 @@ print(df.head(10))# for eg:-(10) now it give top 10
 print("TAIL IN JSON")
 print(df.tail())#by defalut it give bottom 5 we can pass the parameter 
 print(df.tail(10))# for eg:-(10) now it give bottom 10
-#TO SEE THE INFORMATION OF THE ENTIRE DATA 
+#TO SEE THE INFORMATION OF THE ENTIRE DATA :- COUNT OF ROWS AND COLUMN
 print("INFO OF JSON ")
 print(df.info())
 
@@ -21,7 +21,7 @@ print(df.head(10))# for eg:-(10) now it give top 10
 print("TAIL IN CSV")
 print(df.tail())#by defalut it give bottom 5 we can pass the parameter 
 print(df.tail(10))# for eg:-(10) now it give bottom 10
-#TO SEE THE INFORMATION OF THE ENTIRE DATA 
+#TO SEE THE INFORMATION OF THE ENTIRE DATA :- COUNT OF ROWS AND COLUMN
 print("INFO OF CSV ")
 print(df.info())
 
@@ -35,6 +35,6 @@ print(df.head(10))# for eg:-(10) now it give top 10
 print("TAIL IN EXCEL")
 print(df.tail())#by defalut it give bottom 5 we can pass the parameter 
 print(df.tail(10))# for eg:-(10) now it give bottom 10
-#TO SEE THE INFORMATION OF THE ENTIRE DATA 
+#TO SEE THE INFORMATION OF THE ENTIRE DATA :- COUNT OF ROWS AND COLUMN
 print("INFO OF EXCEL ")
 print(df.info())
