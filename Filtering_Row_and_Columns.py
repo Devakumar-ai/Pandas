@@ -1,5 +1,5 @@
 import pandas as pd
-import openpyxl
+import openpyxl# use if your dealing with excel
 df=pd.read_csv(r"c:\Users\hi\Downloads\world_population.csv")
 print(df)
 print(f"Shape:{df.shape}")
